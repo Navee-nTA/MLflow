@@ -1,0 +1,15 @@
+artifact_uri: /home/naveen/MLflow/mlruns/952548971882172836/2d429662729d413a87095f47c9c4c6d5/artifacts
+end_time: 1721971532511
+entry_point_name: ''
+experiment_id: '952548971882172836'
+lifecycle_stage: active
+run_id: 2d429662729d413a87095f47c9c4c6d5
+run_name: stylish-ray-82
+run_uuid: 2d429662729d413a87095f47c9c4c6d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721971531038
+status: 3
+tags: []
+user_id: naveen

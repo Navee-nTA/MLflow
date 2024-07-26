@@ -1,0 +1,15 @@
+artifact_uri: /home/naveen/MLflow/mlruns/952548971882172836/eb781aa9bf1543febf654046b84edbda/artifacts
+end_time: 1721971530393
+entry_point_name: ''
+experiment_id: '952548971882172836'
+lifecycle_stage: active
+run_id: eb781aa9bf1543febf654046b84edbda
+run_name: traveling-donkey-465
+run_uuid: eb781aa9bf1543febf654046b84edbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721971527971
+status: 3
+tags: []
+user_id: naveen

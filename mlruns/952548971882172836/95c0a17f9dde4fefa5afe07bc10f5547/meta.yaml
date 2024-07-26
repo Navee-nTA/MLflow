@@ -1,0 +1,15 @@
+artifact_uri: /home/naveen/MLflow/mlruns/952548971882172836/95c0a17f9dde4fefa5afe07bc10f5547/artifacts
+end_time: 1721971534296
+entry_point_name: ''
+experiment_id: '952548971882172836'
+lifecycle_stage: active
+run_id: 95c0a17f9dde4fefa5afe07bc10f5547
+run_name: nimble-moth-241
+run_uuid: 95c0a17f9dde4fefa5afe07bc10f5547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721971532968
+status: 3
+tags: []
+user_id: naveen
