@@ -8,3 +8,4 @@ mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host
 
 #Screenshot of MLFlow UI
 ![image](https://github.com/user-attachments/assets/dd92e237-55a1-4d36-87e4-2346bbec5033)
+
